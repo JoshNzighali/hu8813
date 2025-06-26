@@ -1,4 +1,3 @@
-# hu8813
 # 👋 Hello there! I'm Yehosh N'ZIGHALI
 
 🌍 Fullstack Web Developer | 🎨 Web & Graphic Designer  
