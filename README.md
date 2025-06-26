@@ -3,6 +3,7 @@
 🌍 Fullstack Web Developer | 🎨 Web & Graphic Designer  
 💼 Passionate about building clean UIs, scalable backends, and pixel-perfect designs.
 
+---
 
 ## 🚀 About Me
 
@@ -11,7 +12,7 @@ I love turning ideas into interactive digital experiences with clean code and be
 
 - 🎯 Currently building apps using **React**, and **Laravel**
 - 🔧 Backend: PHP (Laravel), Node.js, Django
-- 🎨 Design: Figma, Adobe XD, Illustrator, Photoshop, Ae
+- 🎨 Design: Figma, Adobe XD, Illustrator, Photoshop, After Effects
 - 🛠️ Also experienced with: C, C++, Python
 
 ---
@@ -27,12 +28,14 @@ I love turning ideas into interactive digital experiences with clean code and be
 ![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=adobexd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
 
 ---
 
@@ -48,7 +51,7 @@ I love turning ideas into interactive digital experiences with clean code and be
 ## 📈 GitHub Stats
 
 ![Yehosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hu8813&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hu8813&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hu8813&layout=compact&langs_count=6&theme=radical&hide=javascript,html,css)
 
 ---
 
