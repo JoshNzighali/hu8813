@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Yehosh N'ZIGHALI
+# 👋 Hello there! I'm Yehosh N'zighali
 
 🌍 Fullstack Web Developer | 🎨 Web & Graphic Designer  
 💼 Passionate about building clean UIs, scalable backends, and pixel-perfect designs.
